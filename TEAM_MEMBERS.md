@@ -1,8 +1,8 @@
 # Team Members
 
-| Name         | Contribution                 |
-|--------------|------------------------------|
-|              |                              |
-|              |                              |
-|              |                              |
-|              |                              |
+| Name         | Contribution                  |
+|Venkatesh R.  |Planning and Creating a website|
+|              |                               |
+|              |                               |
+|              |                               | 
+|              |                               |
