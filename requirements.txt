@@ -1,1 +1,1 @@
-opencv-python\nnumpy\npillow\nscikit-image\nmatplotlib\nimutils
+Flask
