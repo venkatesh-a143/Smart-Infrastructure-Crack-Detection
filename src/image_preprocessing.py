@@ -6,7 +6,7 @@ def grayscale(image):
     """
     Convert the image to grayscale.
     """
-    return cv2.cvtColor(image, cv2.COLOR_BGR2GRAY
+    return cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 
 def thresholding(image, threshold=128):
