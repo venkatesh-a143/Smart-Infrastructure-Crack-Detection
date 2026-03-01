@@ -1,10 +1,10 @@
 import numpy as np
 
 def classify_crack(area, length):
+    """Classify crack severity based on area and length"""
     severity = "Unknown"
 
-    # Simple rule-based classification
-defined based on area and length
+    # Simple rule-based classification based on area and length
     if area < 10 and length < 5:
         severity = "Minor"
     elif area < 30 and length < 15:
